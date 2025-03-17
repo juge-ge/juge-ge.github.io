@@ -85,8 +85,8 @@
   top: 0;
 }
 .post .post-main a.headerlink::before {
-  content: "#";
-  margin-right: 0.3em;
+  content: "";
+  margin-right: 0;
 }
 .post .post-footer {
   text-align: center;

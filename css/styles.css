@@ -1,0 +1,8 @@
+p {
+  text-indent: 2em;
+}
+h1::before,
+h2::before,
+h3::before {
+  content: "" !important;
+}
