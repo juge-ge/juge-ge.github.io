@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-03-17T14:01:20.004Z</updated>
+  <updated>2025-03-18T11:22:02.110Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>本地部署私人化大模型</title>
+    <link href="http://example.com/2024/03/18/Minimind%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%83/"/>
+    <id>http://example.com/2024/03/18/Minimind%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%83/</id>
+    <published>2024-03-18T06:30:00.000Z</published>
+    <updated>2025-03-18T11:22:02.110Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;本地部署私人化大模型&quot;&gt;&lt;a href=&quot;#本地部署私人化大模型&quot; class=&quot;headerlink&quot; title=&quot;本地部署私人化大模型&quot;&gt;&lt;/a&gt;本地部署私人化大模型&lt;/h1&gt;&lt;p&gt;&lt;em&gt;本项目基于&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="AI实战" scheme="http://example.com/categories/AI%E5%AE%9E%E6%88%98/"/>
+    
+    
+    <category term="深度学习" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Pytorch" scheme="http://example.com/tags/Pytorch/"/>
+    
+    <category term="模型训练" scheme="http://example.com/tags/%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
   
   <entry>
     <title>说话人分离并转录实战</title>
